@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ashwani666
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m The Kalyugh and I am the best !!!!
+- 👀 I’m interested in being the best
+- 🌱 I’m currently learning how to be the best  
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me , no u cant !!!
 
 <!---
 ashwani666/ashwani666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
