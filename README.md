@@ -8,13 +8,14 @@ I design and build quality responsive websites, clean user interfaces and rich i
 
 ![newBanner-Gif](https://user-images.githubusercontent.com/6918020/126431123-00baa7e4-5d04-413f-a7c9-543ff70563ad.gif) 
 
-![Visitor count](https://komarev.com/ghpvc/?username=enggsuraj)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://blogtheorem.com/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/blogtheorem)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/blogtheorem/)
+![Visitor count](https://komarev.com/ghpvc/?username=ashwani666)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://google.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/aashwani_91612)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aashwani_91612/)
+<!---
 [![Codepen Badge](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/enggsuraj) 
 [![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/blogtheorem99)
-
+ -->
 <img align="right" src="https://user-images.githubusercontent.com/6918020/126283454-ce7278b7-d703-4ae0-93f4-ebb7305c983e.gif" width="440" />
 
 ### 👨‍💻 About me 
